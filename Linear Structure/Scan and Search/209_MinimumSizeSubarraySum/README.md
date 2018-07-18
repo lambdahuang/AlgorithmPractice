@@ -3,7 +3,8 @@ This question can be solved by either optimized two-pointers linear scan or bina
 The formmer one takes O(n) which is optimal solution. However, the latter one is still instructive.
 
 optimized two-pointer scans
-`
+
+```
 class Solution {
     public int minSubArrayLen(int s, int[] nums) {
         int[] map = new int[nums.length + 1];
@@ -24,10 +25,11 @@ class Solution {
         return min == Integer.MAX_VALUE? 0: min;
     }
 }
-`
+```
 
 Binary search via TreeMap
-`
+
+```
 class Solution {
     public int minSubArrayLen(int s, int[] nums) {
         int[] map = new int[nums.length + 1];
@@ -49,4 +51,4 @@ class Solution {
         return min == Integer.MAX_VALUE? 0:min;
     }
 }
-`
+```

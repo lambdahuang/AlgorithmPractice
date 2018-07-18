@@ -2,7 +2,7 @@ Don't try to find a solution that solves this question only relying on math.
 
 You have to go handle task by task.
 
-`
+```
 class Solution {
     public int leastInterval(char[] tasks, int n) {
         int[] map = new int[26];
@@ -33,4 +33,4 @@ class Solution {
         return time;
     }
 }
-`
+```
