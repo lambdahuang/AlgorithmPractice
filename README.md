@@ -6,7 +6,8 @@
 
 ## Scan and Search
 
-* [38. Scan and Search]()
+* [38. Count and Say]()
+* [621. Task Scheduler]()
 
 ## Pointer
 
@@ -22,7 +23,9 @@
 
 ## Subarray Product
 
-## Subarray Sumi
+## Subarray Sum
+
+* [209. Minimum Size Subarray Sum]()
 
 ## Other
 
