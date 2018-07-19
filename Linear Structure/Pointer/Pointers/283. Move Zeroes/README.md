@@ -64,9 +64,9 @@ Space Complexity: O(1)
 
 Quite elegant solution.
 
-Some notice: 
-From my perspective the most elegant part in this code is that we use a element swaping intead of single-direction of  dumping the non-zero element to the non-zeor pointer and assign the old position a zero.
-The reason we can't do that is because it can't handle the case of that all number are non-zero! Swaping is forgiving for most of cases.
+Some notices: 
+From my perspective the most elegant part in this code is that we use an element swaping intead of single-direction of dumping the non-zero element to the non-zeor pointer and assign the old position a zero.
+The reason we can't do that is because it can't handle the case of that all numbers are non-zero! Swaping is forgiving for most of cases.
 
 E.g., you can swap on the same element which won't change anything, and also this is what we do for the first element of the array.
 

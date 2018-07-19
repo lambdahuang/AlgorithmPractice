@@ -7,13 +7,13 @@
 ## Scan and Search
 
 * [38. Count and Say]()
-* [621. Task Scheduler]()
+* [621. Task Scheduler](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/621_TaskScheduler)
 
 ## Pointer
 
 ### Pointers
 
-* [283. Move Zeroes]()
+* [283. Move Zeroes](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/283.%20Move%20Zeroes)
 
 ### Palindrome
 
@@ -27,7 +27,7 @@
 
 ## Subarray Sum
 
-* [209. Minimum Size Subarray Sum]()
+* [209. Minimum Size Subarray Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/209_MinimumSizeSubarraySum)
 
 ## Other
 
@@ -39,7 +39,7 @@
 
 ## Interval
 
-* [252. Meeting Rooms]()
+* [252. Meeting Rooms](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Interval/252_MeetingRooms)
 
 ## Stack and Queue
 
@@ -70,6 +70,8 @@
 # Heap
 
 # DFS and BFS
+
+* [78. Subsets](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/78_Subsets)
 
 ## 1D
 

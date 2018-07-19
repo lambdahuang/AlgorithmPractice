@@ -1,7 +1,7 @@
 
 Quite straight forward solution.
 
-Mine solution.
+My solution kinda of ugly.
 ```
 /**
  * Definition for an interval.

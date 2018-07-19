@@ -32,3 +32,5 @@ class Solution {
     }
 }
 ```
+
+Sorry, I lied, BFS cannot solve this question elegantly. I can foresee one solution of BFS which comes with a HashSet, but as I said it's not elegant. So won't put it here.
