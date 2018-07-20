@@ -1,4 +1,4 @@
-An interesting question. I remebered that I've been aksed the same one when I interviewed with Yelp in 2016.
+An interesting question. I've been aksed the same one when I interviewed with Yelp in 2016.
 This question is the followup question of `252. Meeting Room`
 
 There are various types of solutions: heap, sorting, but they all shared the same priciple which is the pruning.
