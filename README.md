@@ -27,11 +27,9 @@
 
 ## Subarray Sum
 
-* [209. Minimum Size Subarray Sum]
-(https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/209_MinimumSizeSubarraySum)
+* [209. Minimum Size Subarray Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/209_MinimumSizeSubarraySum)
 
-* [325. Maximum Size Subarray Sum Equals k]
-(https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k)
+* [325. Maximum Size Subarray Sum Equals k](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k)
 
 ## Other
 
