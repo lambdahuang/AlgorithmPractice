@@ -100,6 +100,8 @@
 
 ## 1D
 
+* [91. Decode Ways](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/91.%20Decode%20Ways)
+
 ## 2D
 
 ## Other

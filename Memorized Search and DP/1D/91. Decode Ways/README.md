@@ -1,4 +1,7 @@
+[91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
+
 Optimal solution: **DP**
+
 The tricky part of this question is that there is some internal logic you need to discover before writing the solution.
 
 For example, `01` is not a legitimate case for the question, you can't simply view it as a counterpart of `1`.
