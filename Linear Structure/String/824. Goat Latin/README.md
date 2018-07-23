@@ -2,6 +2,8 @@
 
 Used the `StringBuilder` to construct the string.
 
+The rest of things are pretty straight forward solution.
+
 ```
 class Solution {
     public String toGoatLatin(String S) {
