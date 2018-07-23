@@ -1,3 +1,5 @@
+[824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
+
 Used the `StringBuilder` to construct the string.
 
 ```
