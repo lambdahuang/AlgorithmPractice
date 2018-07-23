@@ -21,7 +21,7 @@
 
 ### Calculation
 
-* [67. Add Binary](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/209_MinimumSizeSubarraySum)
+* [67. Add Binary](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Calculation/67.%20Add%20Binary)
 
 ## String
 
