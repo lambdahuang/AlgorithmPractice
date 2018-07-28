@@ -5,7 +5,7 @@ The question didn't ask to maintain any order of original array, so we sort it f
 Sorting is always the best way to reduce duplicate processing on the array.
 
 Then, we could use the two-layer iterations to solve this question
-where the outer-layer to chose one number as the pivot point and the inner-layer iteration utilize two pointer to find the rest of two numbers in O(n) time.
+where the outer-layer to chose one number as the pivot point and the inner-layer iteration utilize two pointers to find the rest of two numbers in O(n) time.
 
 To prune duplicate cases, we let the program probe and move to the next different number whenever we move our pointer forward.
 
