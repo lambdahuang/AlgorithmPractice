@@ -9,6 +9,9 @@
 ## Scan and Search
 
 * [38. Count and Say](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/38.%20Count%20and%20Say)
+
+* [277. Find the Celebrity](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/277.%20Find%20the%20Celebrity)
+
 * [621. Task Scheduler](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/621_TaskScheduler)
 
 ## Pointer
