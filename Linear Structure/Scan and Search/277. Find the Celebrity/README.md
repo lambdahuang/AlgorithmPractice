@@ -1,9 +1,9 @@
 [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)
+
 It's a quite good pruning question.
 
 The tricky part is that you should not start with finding the answer,
 instead, you should try to filter out those impossible cases.
-We call this pruning.
 
 ```
 /* The knows API is defined in the parent class Relation.
