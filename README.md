@@ -39,6 +39,8 @@
 
 ## Other
 
+* [311. Sparse Matrix Multiplication](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Other/311.%20Sparse%20Matrix%20Multiplication)
+
 ## LinkedList
 
 ### Singly Linked List
