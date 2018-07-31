@@ -1,8 +1,8 @@
 [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 
-Don't be cheated by the label of easy.
+Don't be fooled by the label of easy.
 
-This is the question reaches the break pointer between ##Greedy Alogrithm## and ##Dynamic Programming##.
+This is the question reaches the break pointer between **Greedy Alogrithm** and **Dynamic Programming**.
 
 
 
