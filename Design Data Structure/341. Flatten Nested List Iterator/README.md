@@ -1,4 +1,4 @@
-Two approach you might take:
+Two approachs you might take based on your preference:
 
 1. Once you get the NestedInteger, you immediately process it to a list integer using DFS.
 
@@ -10,7 +10,7 @@ Second solution would be a little bit complicated. you might use a Stack to keep
 
 
 ```
-/**
+/*
  * // This is the interface that allows for creating nested lists.
  * // You should not implement it, or speculate about its implementation
  * public interface NestedInteger {

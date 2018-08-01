@@ -135,4 +135,6 @@
 
 # Design Data Structure
 
+* [341. Flatten Nested List Iterator](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/341.%20Flatten%20Nested%20List%20Iterator)
+
 # Java Concept
