@@ -31,3 +31,76 @@ class Solution {
     }
 }
 ```
+
+UnionFind with Weighted QuickUnion
+
+```
+class Solution {
+    int[][] dirs = {{0, -1}, {-1, 0}};
+    public int numIslands(char[][] grid) {
+        int res = 0;
+        if( grid == null || grid.length == 0) return res;
+        if( grid[0] == null || grid[0].length == 0 ) return res;
+        int row = grid.length;
+        int col = grid[0].length;
+        
+        int[] unionSet = new int[row * col];
+        Arrays.fill(unionSet, -1);
+        int[] size = new int[row * col];
+        
+        for (int i = 0; i < row; i++) {
+            for (int j = 0 ; j < col; j++) {
+                int id = col * i + j;
+                if ( grid[i][j] == '1' && unionSet[id] == -1) {
+                    res++;
+                    unionSet[id] = id;
+                    size[id] = 1;
+                    
+                    for (int[] dir : dirs) {
+                        int indexX = i + dir[0];
+                        int indexY = j + dir[1];
+
+                        if( isValid(indexX, indexY , row , col) && grid[indexX][indexY] == '1'){
+                            int pos = col * indexX + indexY;
+                            int root = find(unionSet, pos);
+                            if (root != id) {
+                                res--;
+                                // WeightedQuickUnion
+                                id = union(id, root, unionSet, size);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        return res;
+    }
+    
+    //quick find with path compression 
+    public int find(int[] unionSet, int id) {
+        while (unionSet[id] != id) {
+            unionSet[id] = unionSet[unionSet[id]];
+            id = unionSet[id];
+        }
+        return i;
+    }
+    // WeightedQuickUnion
+    public int union(int root1, int root2, int[] unionSet, int[] size) {
+        if (size[root1] < size[root2]) {
+            unionSet[root1] = root2;
+            size[root2] += size[root1];
+            //size[root1] = size[root2];
+            return root2;
+        } else {
+            unionSet[root2] = root1;
+            size[root1] += size[root2];
+            //size[root2] = size[root1];
+            return root1;
+        }
+    }
+    
+    private boolean isValid( int x , int y , int row , int col){
+        return x >=0 && x < row && y >= 0 && y < col;
+    }
+}
+```
