@@ -54,6 +54,8 @@
 
 ## Interval
 
+* [56. Merge Intervals](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Interval/56.%20Merge%20Intervals)
+
 * [252. Meeting Rooms](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Interval/252_MeetingRooms)
 
 * [253. Meeting Rooms II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Interval/253.%20Meeting%20Rooms%20II)
