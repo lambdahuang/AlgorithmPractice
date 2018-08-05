@@ -1,6 +1,6 @@
 [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 
-The question didn't ask to maintain any order of original array, so we sort it firt.
+The question didn't ask to maintain any order of original array, so we sort it first.
 
 Sorting is always the best way to reduce duplicate processing on the array.
 
