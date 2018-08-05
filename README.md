@@ -44,6 +44,8 @@
 
 ## Other
 
+* [31. Next Permutation](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Other/31.%20Next%20Permutation)
+
 * [311. Sparse Matrix Multiplication](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Other/311.%20Sparse%20Matrix%20Multiplication)
 
 ## LinkedList
