@@ -14,7 +14,6 @@ which A and B satisfy following condition:
 
 
 
-
 ```
 class Solution {
     public void nextPermutation(int[] nums) {
@@ -48,6 +47,7 @@ class Solution {
 
 Because we used the comparison-based sorting algorithm, the time complexity of this method is O(nlogn)
 
+# Solution 2
 There is actually one method even better than this.
 Do you remember we are actually exchanging the last decreasing order element with the last element which is closest and larger than decreasing order one.
 
