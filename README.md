@@ -26,7 +26,7 @@
 
 ### Sliding Window
 
-[438. Find All Anagrams in a String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20a%20String)
+* [438. Find All Anagrams in a String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20a%20String)
 
 ### Calculation
 
