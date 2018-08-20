@@ -68,6 +68,7 @@
 
 # Binary Search
 
+* [29. Divide Two Integers](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Search/29.%20Divide%20Two%20Integers)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 
 # Binary Tree
