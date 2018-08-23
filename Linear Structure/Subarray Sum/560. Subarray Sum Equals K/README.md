@@ -1,4 +1,5 @@
-First attempt: (26ms) Too many redundant lines
+First attempt: (26ms) Too many unnecessary code.
+
 ```
 class Solution {
     public int subarraySum(int[] nums, int k) {

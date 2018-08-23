@@ -48,6 +48,8 @@
 
 * [325. Maximum Size Subarray Sum Equals k](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k)
 
+* [560. Subarray Sum Equals K](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/560.%20Subarray%20Sum%20Equals%20K)
+
 ## Other
 
 * [31. Next Permutation](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Other/31.%20Next%20Permutation)
