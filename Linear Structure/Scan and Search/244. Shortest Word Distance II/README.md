@@ -10,16 +10,16 @@ There are three strategies to do that:
 
 1. The vanilla method would be comparing each elements from two sets and find the minimum difference.
 
-The time complexity would be O(n^2) (n is the size of set)
+    The time complexity would be O(n^2) (n is the size of set)
 
 2. You can also do the prunning on the top of the first method which is you slide two points each pointing to a set, making the movement of points only giving you the smaller minimum value.
 A really important reason this method would work is that the element in set is in an increasing order as you put them into the set.
 
-The time complexity would be O(n)
+    The time complexity would be O(n)
 
 3. You can use treemap which gives the cloeset elements of a given value.
 
-The time complexity would be O(nlgn)
+    The time complexity would be O(nlgn)
 
 ```
 class WordDistance {
