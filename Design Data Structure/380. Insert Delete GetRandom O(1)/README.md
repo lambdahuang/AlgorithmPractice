@@ -1,10 +1,10 @@
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 
-This is an very interesting questrion.
+This is an very interesting question.
 
-Using the hashset is the directly method however it's not perfect.
+Using the hashset is the straight-forward method however it's not perfect.
 
-Deletion always gives youy the worst performance.
+Deletion always comes with a bad performance.
 
 # The vanilla solution with HashSet
 
