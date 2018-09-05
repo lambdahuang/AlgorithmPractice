@@ -121,6 +121,8 @@
 
 ## 1D
 
+* [339. Nested List Weight Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D)
+
 ## 2D
 
 * [200. Number of Islands](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/200.%20Number%20of%20Islands)
