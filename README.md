@@ -102,6 +102,8 @@
 
 ## Top-Down & Bottom-Up
 
+*[98. Validate Binary Search Tree](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Top-Down%26Bottom-Up/98.%20Validate%20Binary%20Search%20Tree)
+
 ## Binary Search Treee
 
 # Other Tree Structure
