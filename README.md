@@ -123,6 +123,8 @@
 
 ## 1D
 
+* [301. Remove Invalid Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/301.%20Remove%20Invalid%20Parentheses)
+
 * [339. Nested List Weight Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/339.%20Nested%20List%20Weight%20Sum)
 
 ## 2D
