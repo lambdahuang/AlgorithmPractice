@@ -118,6 +118,8 @@
 
 ## TreeMap
 
+* [683. K Empty Slots](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Other%20Tree%20Structure/TreeMap/683.%20K%20Empty%20Slots)
+
 # Heap
 
 # DFS and BFS
