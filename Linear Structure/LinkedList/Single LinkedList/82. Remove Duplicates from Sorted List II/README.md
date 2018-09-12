@@ -1,11 +1,11 @@
 
-An element that appears once in the list satisfies following codition:
+An element that appears once in the list satisfies following coditions:
 
 1. This element must have different value than her predecessor.
 
 1. This element must have differnet value than her successor.
 
-We append element to the new list only if previous two condition is satisfied.
+We append element to the new list only if previous two conditions are satisfied.
 
 ```
 /**
