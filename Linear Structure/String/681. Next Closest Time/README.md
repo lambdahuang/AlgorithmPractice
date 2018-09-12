@@ -1,6 +1,6 @@
 [681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/)
 
-Logic is simple, be careful in handling the boundry.
+Logic is simple, be careful the boundry.
 
 ```
 class Solution {
