@@ -40,6 +40,8 @@
 
 ## String
 
+* [681. Next Closest Time](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/681.%20Next%20Closest%20Time)
+
 * [824. Goat Latin](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/824.%20Goat%20Latin)
 
 ## Subarray Product
