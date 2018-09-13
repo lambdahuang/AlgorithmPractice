@@ -3,6 +3,8 @@
 Traversal problem you can use union-find, DFS, BFS.
 
 # BFS
+
+```
 class Solution {
     HashMap<String, List<String>> hm = new HashMap();
     HashMap<String, List<Double>> weighthm = new HashMap();
@@ -57,3 +59,4 @@ class Solution {
         return ret;
     }
 }
+```
