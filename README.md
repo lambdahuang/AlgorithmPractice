@@ -145,6 +145,7 @@
 
 ## Traversal
 
+* [785. Is Graph Bipartite?](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Traversal/785.%20Is%20Graph%20Bipartite%3F)
 * [399. Evaluate Division](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Traversal/399.%20Evaluate%20Division)
 
 ## Topological Sort
