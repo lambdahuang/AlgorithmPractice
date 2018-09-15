@@ -166,6 +166,8 @@
 
 ## 2D
 
+* [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays)
+
 ## Other
 
 # Greedy
