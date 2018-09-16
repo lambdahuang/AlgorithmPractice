@@ -108,6 +108,8 @@
 
 ## Bottom-UP
 
+* [124. Binary Tree Maximum Path Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+
 * [543. Diameter of Binary Tree](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/543.%20Diameter%20of%20Binary%20Tree)
 
 ## Top-Down & Bottom-Up
