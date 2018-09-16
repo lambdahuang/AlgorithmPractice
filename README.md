@@ -104,6 +104,8 @@
 
 ## Top-Down
 
+* [257. Binary Tree Paths](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Top-Down/257.%20Binary%20Tree%20Paths)
+
 ## Bottom-UP
 
 * [543. Diameter of Binary Tree](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/543.%20Diameter%20of%20Binary%20Tree)
