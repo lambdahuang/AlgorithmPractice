@@ -131,7 +131,7 @@
 
 # Heap
 
-[629. Top K Frequent Words](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Heap/629.%20Top%20K%20Frequent%20Words)
+* [629. Top K Frequent Words](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Heap/629.%20Top%20K%20Frequent%20Words)
 
 # DFS and BFS
 
