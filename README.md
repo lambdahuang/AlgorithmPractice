@@ -28,6 +28,8 @@
 
 ### Palindrome
 
+* [125. Valid Palindrome](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Palindrome/125.%20Valid%20Palindrome)
+
 * [680. Valid Palindrome II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Palindrome/680.%20Valid%20Palindrome%20II)
 
 ### Sliding Window
