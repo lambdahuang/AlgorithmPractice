@@ -131,6 +131,8 @@
 
 # Heap
 
+[629. Top K Frequent Words](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Heap/629.%20Top%20K%20Frequent%20Words)
+
 # DFS and BFS
 
 * [17. Letter Combinations of a Phone Number](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
