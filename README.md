@@ -54,6 +54,8 @@
 
 * [325. Maximum Size Subarray Sum Equals k](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k)
 
+* [523. Continuous Subarray Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/523.%20Continuous%20Subarray%20Sum)
+
 * [560. Subarray Sum Equals K](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Sum/560.%20Subarray%20Sum%20Equals%20K)
 
 ## Other
@@ -108,8 +110,7 @@
 
 ## Bottom-UP
 
-* [124. Binary Tree Maximum Path Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
-
+* [124. Binary Tree Maximum Path Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/124.%20Binary%20Tree%20Maximum%20Path%20Sum) 
 * [543. Diameter of Binary Tree](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/543.%20Diameter%20of%20Binary%20Tree)
 
 ## Top-Down & Bottom-Up
