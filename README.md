@@ -127,6 +127,8 @@
 
 ## Tire
 
+* [211. Add and Search Word - Data structure design](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Other%20Tree%20Structure/Trie/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design)
+
 ## Binary Indexed Tree
 
 ## TreeMap
