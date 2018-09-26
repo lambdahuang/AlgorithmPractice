@@ -36,6 +36,8 @@
 
 ### Sliding Window
 
+* [76. Minimum Window Substring](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Sliding%20Window/76.%20Minimum%20Window%20Substring)
+
 * [438. Find All Anagrams in a String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20a%20String)
 
 ### Calculation
