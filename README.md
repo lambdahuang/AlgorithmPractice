@@ -118,7 +118,7 @@
 
 * [257. Binary Tree Paths](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Top-Down/257.%20Binary%20Tree%20Paths)
 
-* [297. Serialize and Deserialize Binary Tree]()
+* [297. Serialize and Deserialize Binary Tree](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Top-Down/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 
 ## Bottom-UP
 
