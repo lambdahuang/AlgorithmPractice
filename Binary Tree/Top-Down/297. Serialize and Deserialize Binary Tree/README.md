@@ -2,7 +2,7 @@ It's an quite interesting question.
 This reminds me the days when I took advanced data structure back to 2016.
 Professor Meral asks us to use an array to store a tree structure.
 
-
+# Using BFS 
 ```
 /**
  * Definition for a binary tree node.
@@ -67,6 +67,8 @@ public class Codec {
 // Codec codec = new Codec();
 // codec.deserialize(codec.serialize(root));
 ```
+
+# Optimized BFS
 
 ```
 /**
@@ -136,6 +138,65 @@ public class Codec {
         else
             return new TreeNode(Integer.valueOf(s));
     }
+}
+
+// Your Codec object will be instantiated and called as such:
+// Codec codec = new Codec();
+// codec.deserialize(codec.serialize(root));
+```
+# Using pre-order recursive traversal
+
+```
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+public class Codec {
+
+    // Encodes a tree to a single string.
+    public String serialize(TreeNode root) {
+        StringBuilder sb = new StringBuilder();
+        preorderTraversal(root, sb);
+        return sb.toString();
+    }
+    public void preorderTraversal(TreeNode root, StringBuilder sb)
+    {
+        if(root == null) {sb.append("n"); sb.append(","); return;}
+        sb.append(root.val); sb.append(",");
+        preorderTraversal(root.left, sb);
+        preorderTraversal(root.right, sb);
+        return;
+    }
+
+    int index = 0;
+    // Decodes your encoded data to tree.
+    public TreeNode deserialize(String data) {
+        String[] arr = data.split(",");
+        return preorderConstruction(arr);
+    }
+    public TreeNode preorderConstruction(String[] arr)
+    {
+        if(index >= arr.length || arr[index].length() == 0) return null;
+        TreeNode root = null; 
+        if(!arr[index].equals("n"))
+        {
+            root = new TreeNode(Integer.valueOf(arr[index]));
+            index ++;
+            root.left = preorderConstruction(arr);
+            root.right = preorderConstruction(arr);
+        }
+        else
+        {
+            index ++;
+        }
+        return root;
+    }
+    
 }
 
 // Your Codec object will be instantiated and called as such:
