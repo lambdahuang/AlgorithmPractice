@@ -196,6 +196,8 @@
 
 ## 2D
 
+* [51. N-Queens]()
+
 * [688. Knight Probability in Chessboard](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/688.%20Knight%20Probability%20in%20Chessboard)
 
 * [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays)
