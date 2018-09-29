@@ -196,7 +196,7 @@
 
 ## 2D
 
-* [10. Regular Expression Matching]()
+* [10. Regular Expression Matching](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/10.%20Regular%20Expression%20Matching)
 
 * [51. N-Queens](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/51.%20N-Queens)
 
