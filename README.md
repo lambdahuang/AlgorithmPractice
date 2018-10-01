@@ -46,9 +46,12 @@
 
 ## String
 
+
 * [482. License Key Formatting](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/482.%20License%20Key%20Formatting)
 
 * [681. Next Closest Time](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/681.%20Next%20Closest%20Time)
+
+* [686. Repeated String Match](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/686.%20Repeated%20String%20Match)
 
 * [824. Goat Latin](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/824.%20Goat%20Latin)
 
