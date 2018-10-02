@@ -20,6 +20,8 @@
 
 * [621. Task Scheduler](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/621_TaskScheduler)
 
+* [825. Friends Of Appropriate Ages](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/825.%20Friends%20Of%20Appropriate%20Ages)
+
 ## Pointer
 
 ### Pointers
