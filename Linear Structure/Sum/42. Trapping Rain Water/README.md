@@ -1,4 +1,8 @@
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+The trick would be how to decomplex the question.
+
+By split the array into two at the highest element, you can greatly decompose the question into two identical subquestions.
+
 ```
 class Solution {
     public int trap(int[] height) {
