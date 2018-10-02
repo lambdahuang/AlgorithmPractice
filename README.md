@@ -10,6 +10,8 @@
 
 * [15. 3Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Sum/15.%203Sum)
 
+* [42. Trapping Rain Water](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Sum/42.%20Trapping%20Rain%20Water)
+
 ## Scan and Search
 
 * [38. Count and Say](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/38.%20Count%20and%20Say)
