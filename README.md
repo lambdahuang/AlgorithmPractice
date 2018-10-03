@@ -106,6 +106,8 @@
 
 * [636. Exclusive Time of Functions](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/636.%20Exclusive%20Time%20of%20Functions)
 
+* [716. Max Stack](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/716.%20Max%20Stack)
+
 # Binary Search
 
 * [29. Divide Two Integers](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Search/29.%20Divide%20Two%20Integers)

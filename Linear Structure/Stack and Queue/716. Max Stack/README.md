@@ -1,6 +1,7 @@
 [716. Max Stack](https://leetcode.com/problems/max-stack/)
 
-It is important using equals to compare two Integer instead of using == which would compare the address of object
+It is important to use *equal*s in comparing two Integer instead of using == which would compare the address of object
+
 ```
 class MaxStack {
     List<Integer> lst;
