@@ -1,3 +1,5 @@
+[857. Minimum Cost to Hire K Workers](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Heap/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers)
+
 # Greedy
 
 The time complexity would be O(nlog(n)+n^2)
