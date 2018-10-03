@@ -35,7 +35,15 @@ class Solution {
 }
 ```
 
+
 # Heap
+
+This is best practice to show functionality of heap over the sorting.
+
+Heap can help you maintain an component of a certain size, which can be viewed as an state of anything.
+
+On the contrary, sorting won't bring you such thing because the sorting is done in an instant there won't be any state being maintained. 
+
 ```
 class Solution {
     public double mincostToHireWorkers(int[] quality, int[] wage, int K) {
