@@ -1,6 +1,10 @@
 [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/)
 
+I hand-write the higherValue and lowerValue methods which are pretty similar to the higherKey and lowerKey in the TreeMap()
 
+We find the numbers that are just greater and lesser than the target value and gradully widen the windows until we find the K elements.
+
+By doing this, we could solve the question in the O(klog(n)).
 
 ```
 /**
