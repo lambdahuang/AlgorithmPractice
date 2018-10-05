@@ -59,7 +59,7 @@
 
 * [824. Goat Latin](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/824.%20Goat%20Latin)
 
-* [844. Backspace String Compare]()
+* [844. Backspace String Compare](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/844.%20Backspace%20String%20Compare)
 
 ## Subarray Product
 
