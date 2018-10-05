@@ -59,6 +59,8 @@
 
 * [824. Goat Latin](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/824.%20Goat%20Latin)
 
+* [844. Backspace String Compare]()
+
 ## Subarray Product
 
 * [238. Product of Array Except Self](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Product/238.%20Product%20of%20Array%20Except%20Self)
