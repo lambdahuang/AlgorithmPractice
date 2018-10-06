@@ -77,3 +77,26 @@ class Solution {
     }
 }
 ```
+
+There is another solution, instead of finding the repeat times that target sentence can be put into the output board, the second method is trying to find the space being utilized space in the output board. Then divide the utilized space by length of sentence to get repeat times.
+
+```
+class Solution {
+    public int wordsTyping(String[] sentence, int rows, int cols) {
+        String s = String.join(" ", sentence) + " ";
+        int start = 0, l = s.length();
+        for (int i = 0; i < rows; i++) {
+            start += cols;
+            if (s.charAt(start % l) == ' ') {
+                start++;
+            } else {
+                while (start > 0 && s.charAt((start-1) % l) != ' ') {
+                    start--;
+                }
+            }
+        }
+        
+        return start / s.length();
+    }
+}
+```
