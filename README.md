@@ -50,6 +50,7 @@
 
 ## String
 
+* [418. Sentence Screen Fitting](ihttps://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/418.%20Sentence%20Screen%20Fitting)
 
 * [482. License Key Formatting](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/482.%20License%20Key%20Formatting)
 
