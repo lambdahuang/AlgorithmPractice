@@ -51,6 +51,7 @@
 * [67. Add Binary](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Calculation/67.%20Add%20Binary)
 
 ## String
+* [388. Longest Absolute File Path](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/388.%20Longest%20Absolute%20File%20Path)
 
 * [418. Sentence Screen Fitting](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/418.%20Sentence%20Screen%20Fitting)
 
