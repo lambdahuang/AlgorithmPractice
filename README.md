@@ -176,6 +176,8 @@
 * [17. Letter Combinations of a Phone Number](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 * [78. Subsets](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/78_Subsets)
 
+* [766. Toeplitz Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/766.%20Toeplitz%20Matrix)
+
 ## 1D
 
 * [301. Remove Invalid Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/301.%20Remove%20Invalid%20Parentheses)
