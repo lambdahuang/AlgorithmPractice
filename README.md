@@ -44,6 +44,8 @@
 
 * [438. Find All Anagrams in a String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20a%20String)
 
+* [904. Fruit Into Baskets](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Sliding%20Window/904.%20Fruit%20Into%20Baskets)
+
 ### Calculation
 
 * [67. Add Binary](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Calculation/67.%20Add%20Binary)
@@ -174,6 +176,7 @@
 # DFS and BFS
 
 * [17. Letter Combinations of a Phone Number](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
+
 * [78. Subsets](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/78_Subsets)
 
 * [766. Toeplitz Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/766.%20Toeplitz%20Matrix)
