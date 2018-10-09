@@ -7,7 +7,7 @@ Another werid part I noticed is that at the second line of DFS method, if I repl
 the program would unable to achieve some edge cases.
 I guess the reason would be because, after a series of calculations, the double number can not be viewed as the 24 in the Double compare function even if it is actually close to 24.
 
-Hard question always teach a lesson to us. The lesson I learned from this question is that you need to broke the habit if you find it cannot help you reach the end. 
+Hard question always teach a lesson to us. The lesson I learned from this question is that you need to break the habit if you find it cannot help you reach the end. 
 (In this question, I tried to solve it in the custom way which calculate a number at each level of recursion first which belief of the custom way leads me to a wrond end. SAD..)
 
 
