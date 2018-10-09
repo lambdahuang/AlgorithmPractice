@@ -1,11 +1,14 @@
 [679. 24 Game](https://leetcode.com/problems/24-game/)
 
-Intead of calculate one number at each level of recursion, we can process two. Then, put back the result into a set along with unprocessed number.
-By doing so, we can avoid the unreachable situation like (A+B)*(C+D) which always happend when we use the strategy of processing a number at each leve.
+Intead of calculating one number at each level of recursion, we process two, and then, put back the result into a set along with unprocessed number.
+By doing so, we avoid the unreachable situations like (A+B)*(C+D) which are always happend when we use the strategy of processing a number at each leve.
 
-Another werid part I noticed is that at the second line of DFS method, if I replace the condition in return method to `Double.compare(candidates.get(0), 24) == 0`,
-the program would unable to reach some edge cases.
-I guess the reason would that, after a series of calculation, the double number can not be viewed as the 24 in the Double compare function even if it is actually approximately 24.
+Another werid part I noticed is that at the second line of DFS method, if I replace the condition at return method to `Double.compare(candidates.get(0), 24) == 0`,
+the program would unable to achieve some edge cases.
+I guess the reason would be because, after a series of calculations, the double number can not be viewed as the 24 in the Double compare function even if it is actually close to 24.
+
+Hard question always teach a lesson to us. The lesson I learned from this question is that you need to broke the habit if you find it cannot help you reach the end. 
+(In this question, I tried to solve it in the custom way which calculate a number at each level of recursion first which belief of the custom way leads me to a wrond end. SAD..)
 
 
 ```

@@ -186,6 +186,8 @@
 
 * [78. Subsets](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/78_Subsets)
 
+* [679. 24 Game](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/679.%2024%20Game)
+
 * [766. Toeplitz Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/766.%20Toeplitz%20Matrix)
 
 ## 1D
