@@ -18,6 +18,8 @@
 
 * [38. Count and Say](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/38.%20Count%20and%20Say)
 
+* [163. Missing Ranges](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/163.%20Missing%20Ranges)
+
 * [244. Shortest Word Distance II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/244.%20Shortest%20Word%20Distance%20II)
 
 * [277. Find the Celebrity](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/277.%20Find%20the%20Celebrity)
