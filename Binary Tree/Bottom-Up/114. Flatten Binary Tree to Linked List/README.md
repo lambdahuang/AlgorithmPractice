@@ -1,6 +1,6 @@
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-The tricky is that you move to the left chirld every time and push the right child into the stack, once you move to a null position, you pop up an node from stack.
+The trick is that you move to the left chirld every time and push the right child into the stack, once you move to a null position, you pop up an node from stack.
 
 ```
 /**
