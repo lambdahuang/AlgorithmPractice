@@ -151,6 +151,8 @@
 
 * [297. Serialize and Deserialize Binary Tree](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Top-Down/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 
+* [298. Binary Tree Longest Consecutive Sequence](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Top-Down/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence)
+
 ## Bottom-UP
 
 * [114. Flatten Binary Tree to Linked List](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
