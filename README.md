@@ -246,6 +246,8 @@
 
 * [91. Decode Ways](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/91.%20Decode%20Ways)
 
+* [562. Longest Line of Consecutive One in Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix)
+
 ## 2D
 
 * [10. Regular Expression Matching](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/10.%20Regular%20Expression%20Matching)
