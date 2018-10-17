@@ -162,6 +162,7 @@
 * [114. Flatten Binary Tree to Linked List](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 * [124. Binary Tree Maximum Path Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/124.%20Binary%20Tree%20Maximum%20Path%20Sum) 
 * [543. Diameter of Binary Tree](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Bottom-Up/543.%20Diameter%20of%20Binary%20Tree)
+* [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/submissions/)
 
 ## Top-Down & Bottom-Up
 
