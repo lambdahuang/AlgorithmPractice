@@ -112,6 +112,8 @@
 
 * [350. Intersection of Two Arrays II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/350.%20Intersection%20of%20Two%20Arrays%20II)
 
+* [760. Find Anagram Mappings](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/760.%20Find%20Anagram%20Mappings)
+
 ## Interval
 
 * [56. Merge Intervals](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Interval/56.%20Merge%20Intervals)
