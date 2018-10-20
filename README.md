@@ -114,7 +114,7 @@
 
 * [760. Find Anagram Mappings](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/760.%20Find%20Anagram%20Mappings)
 
-* [804. Unique Morse Code Words]()
+* [804. Unique Morse Code Words](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/804.%20Unique%20Morse%20Code%20Words)
 
 ## Interval
 
