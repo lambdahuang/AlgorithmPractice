@@ -293,4 +293,6 @@
 
 * [380. Insert Delete GetRandom O(1)](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/380.%20Insert%20Delete%20GetRandom%20O(1))
 
+* [398. Random Pick Index](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/398.%20Random%20Pick%20Index)
+
 # Java Concept
