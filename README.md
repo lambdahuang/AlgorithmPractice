@@ -74,6 +74,8 @@
 
 * [686. Repeated String Match](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/686.%20Repeated%20String%20Match)
 
+* [791. Custom Sort String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/791.%20Custom%20Sort%20String)
+
 * [824. Goat Latin](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/824.%20Goat%20Latin)
 
 * [844. Backspace String Compare](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/844.%20Backspace%20String%20Compare)
