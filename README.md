@@ -261,6 +261,8 @@
 
 * [91. Decode Ways](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/91.%20Decode%20Ways)
 
+* [300. Longest Increasing Subsequence](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/300.%20Longest%20Increasing%20Subsequence)
+
 * [562. Longest Line of Consecutive One in Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix)
 
 ## 2D
