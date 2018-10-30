@@ -295,4 +295,6 @@
 
 * [398. Random Pick Index](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/398.%20Random%20Pick%20Index)
 
+* [731. My Calendar II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/731.%20My%20Calendar%20II)
+
 # Java Concept

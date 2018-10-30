@@ -1,5 +1,7 @@
 [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
 
+This question is not tricky but be careful, you don't want to experience stupid error caused by your carelessness.
+
 ```
 class MyCalendarTwo {
     int[] startA = new int[1000];
