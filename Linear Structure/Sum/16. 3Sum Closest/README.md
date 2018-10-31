@@ -1,4 +1,6 @@
 [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+This is simliar to the 3Sum.
+
 ```
 class Solution {
     public int threeSumClosest(int[] nums, int target) {

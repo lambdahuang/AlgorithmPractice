@@ -12,6 +12,8 @@
 
 * [15. 3Sum](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Sum/15.%203Sum)
 
+* [16. 3Sum Closest](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Sum/16.%203Sum%20Closest)
+
 * [42. Trapping Rain Water](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Sum/42.%20Trapping%20Rain%20Water)
 
 ## Scan and Search
