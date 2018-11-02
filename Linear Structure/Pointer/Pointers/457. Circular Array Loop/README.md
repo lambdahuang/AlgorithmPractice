@@ -1,4 +1,6 @@
 [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
+The question is extremely unclear. 
+
 ```
 class Solution {
     public boolean circularArrayLoop(int[] nums) {
