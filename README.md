@@ -68,6 +68,8 @@
 
 ## String
 
+* [6. ZigZag Conversion]()
+
 * [344. Reverse String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/344.%20Reverse%20String)
 
 * [388. Longest Absolute File Path](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/388.%20Longest%20Absolute%20File%20Path)
