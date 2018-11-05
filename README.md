@@ -68,7 +68,7 @@
 
 ## String
 
-* [6. ZigZag Conversion]()
+* [6. ZigZag Conversion](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/6.%20ZigZag%20Conversion)
 
 * [344. Reverse String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/344.%20Reverse%20String)
 
