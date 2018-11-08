@@ -86,6 +86,8 @@
 
 * [824. Goat Latin](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/824.%20Goat%20Latin)
 
+* [833. Find And Replace in String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/833.%20Find%20And%20Replace%20in%20String)
+
 * [844. Backspace String Compare](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/844.%20Backspace%20String%20Compare)
 
 ## Subarray Product
