@@ -273,6 +273,8 @@
 
 * [91. Decode Ways](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/91.%20Decode%20Ways)
 
+* [139. Word Break]()
+
 * [300. Longest Increasing Subsequence](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/300.%20Longest%20Increasing%20Subsequence)
 
 * [375. Guess Number Higher or Lower II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/375.%20Guess%20Number%20Higher%20or%20Lower%20II)
