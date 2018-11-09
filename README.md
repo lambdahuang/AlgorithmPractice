@@ -125,6 +125,8 @@
 * [364. Nested List Weight Sum II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/LinkedList/Single%20LinkedList/364.%20Nested%20List%20Weight%20Sum%20II)
 ## Hash
 
+* [49. Group Anagrams](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/49.%20Group%20Anagrams)
+
 * [349. Intersection of Two Arrays](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/349.%20Intersection%20of%20Two%20Arrays)
 
 * [350. Intersection of Two Arrays II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/350.%20Intersection%20of%20Two%20Arrays%20II)
