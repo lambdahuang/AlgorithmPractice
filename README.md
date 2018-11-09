@@ -70,6 +70,8 @@
 
 * [6. ZigZag Conversion](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/6.%20ZigZag%20Conversion)
 
+* [151. Reverse Words in a String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/151.%20Reverse%20Words%20in%20a%20String)
+
 * [344. Reverse String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/344.%20Reverse%20String)
 
 * [388. Longest Absolute File Path](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/388.%20Longest%20Absolute%20File%20Path)
