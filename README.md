@@ -239,7 +239,7 @@
 ## 2D
 
 * [200. Number of Islands](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/200.%20Number%20of%20Islands)
-    
+
 * [289. Game of Life](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/289.%20Game%20of%20Life)
 
 ## Dijkstra
