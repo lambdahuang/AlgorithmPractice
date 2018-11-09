@@ -147,7 +147,7 @@
 
 ## Stack and Queue
 
-* [22. Generate Parentheses]()
+* [22. Generate Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/22.%20Generate%20Parentheses)
 
 * [227. Basic Calculator II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/227.%20Basic%20Calculator%20II)
 
@@ -235,6 +235,8 @@
 * [766. Toeplitz Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/766.%20Toeplitz%20Matrix)
 
 ## 1D
+
+* [22. Generate Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/22.%20Generate%20Parentheses)
 
 * [93. Restore IP Addresses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/93.%20Restore%20IP%20Addresses)
 
