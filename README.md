@@ -147,6 +147,8 @@
 
 ## Stack and Queue
 
+* [22. Generate Parentheses]()
+
 * [227. Basic Calculator II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/227.%20Basic%20Calculator%20II)
 
 * [394. Decode String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/394.%20Decode%20String)
