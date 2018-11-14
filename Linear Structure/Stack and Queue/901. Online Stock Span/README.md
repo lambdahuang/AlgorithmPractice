@@ -1,6 +1,6 @@
 [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
-You cannot avoid the linear time in the worst case but you can do some optimization by borrowing some of the DP idea.
+You cannot avoid the linear time in the worst case but you can do some optimization by borrowing the idea from DP.
 
 ```
 class StockSpanner {
