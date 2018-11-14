@@ -38,6 +38,8 @@
 
 * [11. Container With Most Water](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/11.%20Container%20With%20Most%20Water)
 
+* [24. Swap Nodes in Pairs](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/24.%20Swap%20Nodes%20in%20Pairs)
+
 * [88. Merge Sorted Array](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/88.%20Merge%20Sorted%20Array)
 
 * [283. Move Zeroes](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/283.%20Move%20Zeroes)
