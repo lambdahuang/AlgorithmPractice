@@ -313,6 +313,8 @@
 
 # Greedy
 
+* [135. Candy](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Greedy/135.%20Candy)
+
 # Reservoir Sampling
 
 # Bit Manipulation
