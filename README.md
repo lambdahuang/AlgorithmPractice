@@ -42,6 +42,8 @@
 
 * [88. Merge Sorted Array](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/88.%20Merge%20Sorted%20Array)
 
+* [203. Remove Linked List Elements](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/203.%20Remove%20Linked%20List%20Elements)
+
 * [283. Move Zeroes](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/283.%20Move%20Zeroes)
 
 * [457. Circular Array Loop](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Pointers/457.%20Circular%20Array%20Loop)
