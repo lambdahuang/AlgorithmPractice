@@ -74,7 +74,7 @@
 
 * [151. Reverse Words in a String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/151.%20Reverse%20Words%20in%20a%20String)
 
-* [205. Isomorphic Strings]()
+* [205. Isomorphic Strings](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/205.%20Isomorphic%20Strings)
 
 * [344. Reverse String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/344.%20Reverse%20String)
 
