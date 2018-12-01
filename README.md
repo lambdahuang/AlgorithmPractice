@@ -77,6 +77,8 @@
 
 * [6. ZigZag Conversion](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/6.%20ZigZag%20Conversion)
 
+* [12. Integer to Roman](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/12.%20Integer%20to%20Roman)
+
 * [151. Reverse Words in a String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/151.%20Reverse%20Words%20in%20a%20String)
 
 * [205. Isomorphic Strings](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/205.%20Isomorphic%20Strings)
