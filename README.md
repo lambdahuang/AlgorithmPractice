@@ -148,6 +148,8 @@
 
 * [804. Unique Morse Code Words](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/804.%20Unique%20Morse%20Code%20Words)
 
+* [811. Subdomain Visit Count](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/811.%20Subdomain%20Visit%20Count)
+
 ## Interval
 
 * [56. Merge Intervals](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Interval/56.%20Merge%20Intervals)
