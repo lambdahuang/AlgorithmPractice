@@ -1,7 +1,7 @@
 
 [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
 
-For me, the lesson I learned from this question is spliting string with multiple delimiter seperate by `|`
+For me, the lesson I learned from this question is spliting string with multiple delimiter seperated by `|`
 
 ```
 class Solution {
