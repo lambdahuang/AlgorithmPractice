@@ -140,6 +140,8 @@
 
 * [49. Group Anagrams](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/49.%20Group%20Anagrams)
 
+* [128. Longest Consecutive Sequence](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/128.%20Longest%20Consecutive%20Sequence)
+
 * [349. Intersection of Two Arrays](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/349.%20Intersection%20of%20Two%20Arrays)
 
 * [350. Intersection of Two Arrays II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/350.%20Intersection%20of%20Two%20Arrays%20II)
