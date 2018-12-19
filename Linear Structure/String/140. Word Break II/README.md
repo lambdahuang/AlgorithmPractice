@@ -1,6 +1,8 @@
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
 
 # DFS: TLE
+
+The DFS soluton cannot pass the time restriction check.
 ```
 class Solution {
     public List<String> wordBreak(String s, List<String> wordDict) {
@@ -42,6 +44,8 @@ class Solution {
 ```
 
 # DFS + DP
+
+To use DP, we need to adjust our DFS logic to enable the state tracking capability. The state we want to keep is to find the processed space-seperated strings of the substring of `s` which is from `ith` to end. By doing so, we do not need to calculate the last part of string for multiple times.
 
 
 ```
