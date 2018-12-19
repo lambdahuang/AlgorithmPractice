@@ -364,4 +364,4 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 
 # Math
 
-[70. Climbing Stairs]://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/70.%20Climbing%20Stairs)
+[70. Climbing Stairs](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/70.%20Climbing%20Stairs)
