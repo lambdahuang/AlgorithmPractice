@@ -168,6 +168,8 @@
 
 * [22. Generate Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/22.%20Generate%20Parentheses)
 
+* [140. Word Break II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/140.%20Word%20Break%20II)
+
 * [227. Basic Calculator II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/227.%20Basic%20Calculator%20II)
 
 * [394. Decode String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/394.%20Decode%20String)
@@ -251,6 +253,8 @@
 
 * [78. Subsets](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/78_Subsets)
 
+* [140. Word Break II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/140.%20Word%20Break%20II)
+
 * [299. Bulls and Cows](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/299.%20Bulls%20and%20Cows)
 
 * [679. 24 Game](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/679.%2024%20Game)
@@ -295,6 +299,8 @@
 # Memorized Search and DP
 
 ## Basic
+
+https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/140.%20Word%20Break%20II
 
 ## Stock Problem
 
