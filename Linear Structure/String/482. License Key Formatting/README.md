@@ -32,3 +32,25 @@ class Solution {
     }
 }
 ```
+
+# 2019.1.22
+```
+class Solution {
+    public String licenseKeyFormatting(String S, int K) {
+        if(S.length() == 0) return S;
+        S = new StringBuilder(S.toUpperCase()).reverse().toString();
+        StringBuilder sb = new StringBuilder();
+        int i = 1;
+        for(char c : S.toCharArray())
+        {
+            if(c=='-') continue;
+            sb.append(c);
+            if((i%K)==0)sb.append('-');
+            i++;
+        }
+        if(sb.length() > 1 && sb.charAt(sb.length()-1)=='-') sb.setLength(sb.length()-1);
+        return sb.reverse().toString();
+        
+    }
+}
+```
