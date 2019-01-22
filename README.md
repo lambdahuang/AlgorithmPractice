@@ -105,6 +105,8 @@
 
 * [844. Backspace String Compare](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/844.%20Backspace%20String%20Compare)
 
+* [929. Unique Email Addresses]()
+
 ## Subarray Product
 
 * [238. Product of Array Except Self](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Subarray%20Product/238.%20Product%20of%20Array%20Except%20Self)

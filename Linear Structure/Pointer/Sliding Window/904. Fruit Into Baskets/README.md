@@ -24,3 +24,42 @@ class Solution {
     }
 }
 ```
+
+```
+class Solution {
+    public int totalFruit(int[] tree) {
+        if(tree.length <= 2) return tree.length;
+        // Sliding window
+        int index = 0;
+        int last = 0;
+        HashMap<Integer, Integer> posOfFr = new HashMap<>();
+        int maxlen = 0;
+        while(index < tree.length)
+        {
+            maxlen = Math.max(maxlen, index-last);
+            int cur = tree[index];
+            boolean seen = posOfFr.containsKey(cur);
+            if( !seen && posOfFr.size() > 1)
+            {
+                // clean the tail
+                int key = 0;
+                for(Map.Entry<Integer, Integer> par : posOfFr.entrySet())
+                {
+                    if(par.getKey() != tree[index-1])
+                    {
+                        last = par.getValue() + 1;
+                        key =  par.getKey();
+                        break;
+                    }
+                }
+                posOfFr.remove(key);
+            }
+            posOfFr.put(cur, index);
+            //wSystem.out.println(index + " " + last);
+            index ++;
+        }
+        maxlen = Math.max(maxlen, index-last);
+        return maxlen;
+    }
+}
+```
