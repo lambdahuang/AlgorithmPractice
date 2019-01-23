@@ -51,3 +51,59 @@ class Solution {
     }
 }
 ```
+
+#2019.1.23
+
+```
+class Solution {
+    public String nextClosestTime(String time) {
+        int[] arr = new int[4];
+        arr[0] = time.charAt(0)-'0';
+        arr[1] = time.charAt(1)-'0';
+        arr[2] = time.charAt(3)-'0';
+        arr[3] = time.charAt(4)-'0';
+        int[] sorted = new int[4];
+        for(int i = 0; i < 4; i ++) sorted[i] = arr[i];
+        Arrays.sort(sorted);
+        TreeSet<Integer> tm = new TreeSet<>();
+        for(int i : arr) tm.add(i);
+        for(int i = 3; i >=0; i --)
+        {
+            Integer upper = tm.higher(arr[i]);
+            if(upper != null)
+            {
+                int tmp = arr[i];
+                arr[i] = upper;
+                if(isValid(arr)) {
+                    // set the previous number to the lowest number of the array
+                    for(int j = 3; j > i; j--) arr[j] = sorted[0];
+                    return generate(arr);
+                }
+                arr[i] = tmp;
+            }
+        }
+        
+        for(int i = 0; i < 4; i++) arr[i] = sorted[0];
+        return generate(arr);
+    }
+    public String generate(int[] arr)
+    {
+        StringBuilder sb = new StringBuilder();
+        sb.append(arr[0]);
+        sb.append(arr[1]);
+        sb.append(':');
+        sb.append(arr[2]);
+        sb.append(arr[3]);
+        return sb.toString();
+    }
+    public boolean isValid(int[] arr)
+    {
+        int hours = arr[0] * 10 + arr[1];
+        int mins = arr[2] * 10 + arr[3];
+        if( hours >= 0 && hours < 24 && mins >= 0 && mins < 60) 
+            return true; 
+        else 
+            return false;
+    }
+}
+```
