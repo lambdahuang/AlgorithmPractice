@@ -60,3 +60,66 @@ class Solution {
     }
 }
 ```
+
+# 2019.1.25 
+```
+class Solution {
+    public double[] calcEquation(String[][] equations, double[] values, String[][] queries) {
+        HashMap<String, HashMap<String, Double>> edges = new HashMap<>();
+        for(int i = 0; i < equations.length; i ++)
+        {
+            String[] equation = equations[i];
+            double value = values[i];
+            addToMap(equation[0], equation[1], value, edges);
+            addToMap(equation[1], equation[0], 1/value, edges);
+        }
+        double[] ret = new double[queries.length];
+        for(int i = 0; i < ret.length; i++)
+        {
+            //System.out.println("-----------------");
+            ret[i] = DFS(queries[i][0], queries[i][1], new HashSet<String>(), edges);
+        }
+        return ret;
+    }
+    public double DFS(String source, String target, HashSet<String> visited, HashMap<String, HashMap<String, Double>> edges)
+    {   
+        if(!edges.containsKey(source)) return -1.0;
+        if(source.equals(target)) return 1.0;
+        if(visited.contains(source)) return -1.0;
+        else
+        {
+            visited.add(source);
+            HashMap<String, Double> tmp = edges.get(source);
+            for(Map.Entry<String, Double> edge: tmp.entrySet())
+            {
+                //System.out.println(source + " - " + edge.getKey());
+                double ret = DFS(edge.getKey(), target, visited, edges);
+                if( ret != -1.0)
+                    return ret * edge.getValue();
+            }
+            visited.remove(source);
+        }
+        
+        return -1.0;
+        
+    }
+    public void addToMap(String source,
+                              String target,
+                              double value,
+                              HashMap<String, HashMap<String, Double>> edges)
+    {
+        
+        if(edges.containsKey(source))
+        {
+            HashMap<String, Double> edge = edges.get(source);
+            if(!edge.containsKey(target)) edge.put(target, value);
+        }
+        else
+        {
+            HashMap<String, Double> edge = new HashMap<String, Double>();
+            edge.put(target, value);
+            edges.put(source, edge);
+        }
+    }
+}
+```
