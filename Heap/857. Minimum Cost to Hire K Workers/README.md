@@ -78,3 +78,54 @@ class Solution {
     }
 }
 ```
+
+2019.2.1
+
+```
+class Solution {
+    public class Employee{
+        public int quality = 0;
+        public int wage = 0;
+        public double wpq = 0.0;
+    }
+    public double mincostToHireWorkers(int[] quality, int[] wage, int K) {
+        Employee[] e = new Employee[quality.length];
+        for(int i = 0; i < quality.length; i ++) 
+        {
+            e[i] = new Employee();
+            e[i].quality = quality[i];
+            e[i].wage = wage[i];
+            e[i].wpq = (double)wage[i] / quality[i];
+        }
+        Arrays.sort(e, new Comparator<Employee>(){
+            @Override
+            public int compare(Employee o1, Employee o2) {
+                if (((Double) o2.wpq).compareTo(o1.wpq) != 0)
+                    return ((Double) o1.wpq).compareTo(o2.wpq);
+                else 
+                    return ((Integer) o2.quality).compareTo(o1.quality);
+            }
+        });
+        
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
+        int total_quality = 0;
+        double ret = Double.MAX_VALUE;
+        for(int i = 0; i < quality.length; i ++)
+        {
+            System.out.println(e[i].wpq);
+            pq.offer(e[i].quality);
+            total_quality += e[i].quality;
+            if(pq.size() > K)
+            {
+                total_quality -= pq.poll();
+            }
+            if(pq.size() == K)
+            {
+                ret = Math.min(ret, total_quality * e[i].wpq);
+            }
+
+        }
+        return ret;
+      }
+}
+```
