@@ -367,3 +367,6 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 # Math
 
 [70. Climbing Stairs](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/70.%20Climbing%20Stairs)
+
+# Interactive
+* [843. Guess the Word]()
