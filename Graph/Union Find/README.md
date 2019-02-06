@@ -1,4 +1,4 @@
-[947. Most Stones Removed with Same Row or Column]()
+[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 
 What the question asks is to remove the node from a connected graph until the last one.
 A connected graph can always transform to a tree which roots from a single point.

@@ -289,6 +289,8 @@
 
 * [737. Sentence Similarity II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Union%20Find/737.%20Sentence%20Similarity%20II)
 
+* [947. Most Stones Removed with Same Row or Column](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Union%20Find)
+
 ## Traversal
 
 * [133. Clone Graph](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Traversal/133.%20Clone%20Graph)
