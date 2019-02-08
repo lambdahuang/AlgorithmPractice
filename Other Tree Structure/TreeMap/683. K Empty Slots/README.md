@@ -41,3 +41,27 @@ class Solution {
     }
 }
 ```
+
+2019.2.8
+
+# TreeMap
+
+```
+class Solution {
+    public int kEmptySlots(int[] flowers, int k) {
+        if(k >= flowers.length) return -1;
+        TreeSet<Integer> ts = new TreeSet<>();
+        for(int i = 0; i < flowers.length; i ++)
+        {
+            Integer higher = ts.higher(flowers[i]);
+            Integer lower =  ts.lower(flowers[i]);
+            if(higher != null && higher - flowers[i] - 1 == k)
+                return i + 1;
+            else if (lower != null && flowers[i] - lower - 1 == k)
+                return i + 1;
+            ts.add(flowers[i]);
+        }
+        return -1;
+    }
+}
+```
