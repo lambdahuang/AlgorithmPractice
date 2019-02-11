@@ -194,7 +194,7 @@
 
 * [173. Binary Search Tree Iterator](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Binary%20Tree%20Traversal/173.%20Binary%20Search%20Tree%20Iterator)
 
-* [222. Count Complete Tree Nodes]()
+* [222. Count Complete Tree Nodes](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Binary%20Tree%20Traversal/222.%20Count%20Complete%20Tree%20Nodes)
 
 * [314. Binary Tree Vertical Order Traversal](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Binary%20Tree/Binary%20Tree%20Traversal/314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
 
