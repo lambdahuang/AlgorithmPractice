@@ -310,6 +310,8 @@
 
 https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/140.%20Word%20Break%20II
 
+* [975. Odd Even Jump]()
+
 ## Stock Problem
 
 * [53. Maximum Subarray](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/Stock%20Problem/53.%20Maximum%20Subarray)
