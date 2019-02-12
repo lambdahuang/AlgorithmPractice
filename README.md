@@ -310,7 +310,7 @@
 
 https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/140.%20Word%20Break%20II
 
-* [975. Odd Even Jump]()
+* [975. Odd Even Jump](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/1D/975.%20Odd%20Even%20Jump)
 
 ## Stock Problem
 
