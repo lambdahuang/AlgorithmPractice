@@ -158,6 +158,8 @@
 
 * [819. Most Common Word](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Hash/819.%20Most%20Common%20Word)
 
+* [939. Minimum Area Rectangle]()
+
 ## Interval
 
 * [56. Merge Intervals](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Interval/56.%20Merge%20Intervals)
