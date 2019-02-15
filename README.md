@@ -26,6 +26,8 @@
 
 * [277. Find the Celebrity](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/277.%20Find%20the%20Celebrity)
 
+* [299. Bulls and Cows](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/299.%20Bulls%20and%20Cows)
+
 * [621. Task Scheduler](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/621_TaskScheduler)
 
 * [825. Friends Of Appropriate Ages](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/825.%20Friends%20Of%20Appropriate%20Ages)
@@ -260,8 +262,6 @@
 * [78. Subsets](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/78_Subsets)
 
 * [140. Word Break II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/140.%20Word%20Break%20II)
-
-* [299. Bulls and Cows](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Scan%20and%20Search/299.%20Bulls%20and%20Cows)
 
 * [679. 24 Game](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/679.%2024%20Game)
 
