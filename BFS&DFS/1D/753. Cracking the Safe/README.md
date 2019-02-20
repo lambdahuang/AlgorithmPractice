@@ -1,6 +1,6 @@
 [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
 
-##This is a combination lock question.##
+## This is a combination lock question. ##
 
 To solve the question, you need to first take a look at the [De Bruijn Sequence](https://en.wikipedia.org/wiki/De_Bruijn_sequence) 
 
