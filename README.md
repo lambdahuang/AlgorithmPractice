@@ -269,7 +269,7 @@
 
 * [766. Toeplitz Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/766.%20Toeplitz%20Matrix)
 
-* [753. Cracking the Safe]()
+* [753. Cracking the Safe](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/753.%20Cracking%20the%20Safe)
 
 ## 1D
 

@@ -1,13 +1,14 @@
 [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
 
-This is a combination lock question
-To solve the question, you need to first take a look the [De Bruijn Sequence](https://en.wikipedia.org/wiki/De_Bruijn_sequence) 
+##This is a combination lock question.##
+
+To solve the question, you need to first take a look at the [De Bruijn Sequence](https://en.wikipedia.org/wiki/De_Bruijn_sequence) 
 
 A de Bruijn sequence of order n on a size-k alphabet A is a *cyclic* sequence in which every possible length-n string on A occurs exactly once as a substring (i.e., as a contiguous subsequence). Such a sequence is denoted by B(k, n) and has length `k^n`, which is also the number of distinct substrings of length n on A.
 
 There are two important information we can found from this statement: 
 
-1. the sequence is cyclic which means that you can start from anywhere in the sequence to construct the string.
+1. the sequence is cyclic which means that you can start from anywhere in the sequence to traverse all cases in the sequence.
 
 2. the length of the sequence is `k^n`
 
