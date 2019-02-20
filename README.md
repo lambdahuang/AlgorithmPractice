@@ -269,6 +269,8 @@
 
 * [766. Toeplitz Matrix](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/2D/766.%20Toeplitz%20Matrix)
 
+* [753. Cracking the Safe]()
+
 ## 1D
 
 * [22. Generate Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/22.%20Generate%20Parentheses)
