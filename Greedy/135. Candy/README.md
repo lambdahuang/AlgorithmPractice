@@ -32,3 +32,32 @@ class Solution {
     }
 }
 ```
+
+2019.2.20
+
+Greedy approach, we make sure that each child give the minimum candies based on his left-side chird and right-side child.
+
+```
+class Solution {
+    public int candy(int[] ratings) {
+        int[] map = new int[ratings.length];
+        map[0] = 1;
+        for(int i = 1; i < ratings.length; i ++)
+        {
+            if(ratings[i] > ratings[i-1])
+                map[i] = map[i-1] + 1;
+            else
+                map[i] = 1;
+        }
+        for(int i = ratings.length-2; i >=0 ; i --)
+        {
+            if(ratings[i] > ratings[i+1])
+                map[i] = Math.max(map[i+1] + 1, map[i]);
+        }
+        int sum = 0;
+        for(int i = 0; i < map.length;i  ++)
+            sum += map[i];
+        return sum;
+    }
+}
+```
