@@ -369,7 +369,7 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 
 * [146. LRU Cache](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/146.%20LRU%20Cache)
 
-* [158. Read N Characters Given Read4 II - Call multiple times]()
+* [158. Read N Characters Given Read4 II - Call multiple times](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/158.%20Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times)
 
 * [341. Flatten Nested List Iterator](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/341.%20Flatten%20Nested%20List%20Iterator)
 
