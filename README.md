@@ -369,6 +369,8 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 
 * [146. LRU Cache](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/146.%20LRU%20Cache)
 
+* [158. Read N Characters Given Read4 II - Call multiple times]()
+
 * [341. Flatten Nested List Iterator](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/341.%20Flatten%20Nested%20List%20Iterator)
 
 * [380. Insert Delete GetRandom O(1)](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/380.%20Insert%20Delete%20GetRandom%20O(1))
