@@ -111,7 +111,7 @@
 
 * [844. Backspace String Compare](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/844.%20Backspace%20String%20Compare)
 
-* [929. Unique Email Addresses]()
+* [929. Unique Email Addresses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/929.%20Unique%20Email%20Addresses)
 
 ## Subarray Product
 
