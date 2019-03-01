@@ -103,7 +103,7 @@
 
 * [791. Custom Sort String](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/791.%20Custom%20Sort%20String)
 
-* [809. Expressive Words]()
+* [809. Expressive Words](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/809.%20Expressive%20Words)
 
 * [824. Goat Latin](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/824.%20Goat%20Latin)
 
