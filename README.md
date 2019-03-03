@@ -75,6 +75,8 @@
 
 * [67. Add Binary](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Calculation/67.%20Add%20Binary)
 
+* [849. Maximize Distance to Closest Person](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Pointer/Calculation/849.%20Maximize%20Distance%20to%20Closest%20Person)
+
 ## String
 
 * [6. ZigZag Conversion](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/6.%20ZigZag%20Conversion)
