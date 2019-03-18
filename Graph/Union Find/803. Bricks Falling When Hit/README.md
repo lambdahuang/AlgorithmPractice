@@ -3,6 +3,7 @@
 # BFS (TLE)
 
 In doing BFS, after removal of the hited bricks, we check all other bricks starting from the roof and see if they drop or not.
+
 ```
 class Solution {
     public int[] hitBricks(int[][] grid, int[][] hits) {
@@ -48,10 +49,12 @@ class Solution {
 }
 ```
 
+
 # Reversed sequence and Union-Find
 We can starts from the end state which all bricks already being removed. Add each removed brick back to the graph and use union find to see the weight change of the omni corner. The omni corner is a virtual idea which is being connected by all roof bricks.
 
-'''
+
+```
 class Solution {
     int[] pt;
     int[] wz;
