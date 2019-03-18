@@ -305,6 +305,8 @@
 
 * [737. Sentence Similarity II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Union%20Find/737.%20Sentence%20Similarity%20II)
 
+* [803. Bricks Falling When Hit](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Union%20Find/803.%20Bricks%20Falling%20When%20Hit)
+
 * [947. Most Stones Removed with Same Row or Column](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Graph/Union%20Find)
 
 ## Traversal
