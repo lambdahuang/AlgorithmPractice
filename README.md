@@ -249,6 +249,8 @@
 
 * [211. Add and Search Word - Data structure design](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Other%20Tree%20Structure/Trie/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design)
 
+* [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/)
+
 ## Binary Indexed Tree
 
 ## TreeMap
