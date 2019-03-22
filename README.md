@@ -285,7 +285,7 @@
 
 * [93. Restore IP Addresses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/93.%20Restore%20IP%20Addresses)
 
-* [248. Strobogrammatic Number III]()
+* [248. Strobogrammatic Number III](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/248.%20Strobogrammatic%20Number%20III)
 
 * [301. Remove Invalid Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/301.%20Remove%20Invalid%20Parentheses)
 
