@@ -398,7 +398,7 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 
 * [731. My Calendar II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/731.%20My%20Calendar%20II)
 
-* [900. RLE Iterator]()
+* [900. RLE Iterator](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Design%20Data%20Structure/900.%20RLE%20Iterator)
 
 # Java Concept
 
