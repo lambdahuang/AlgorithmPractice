@@ -410,5 +410,7 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 
 * [528. Random Pick with Weight](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/528.%20Random%20Pick%20with%20Weight)
 
+* [837. New 21 Game](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/837.%20New%2021%20Game)
+
 # Interactive
 * [843. Guess the Word](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Interactive/843.%20Guess%20the%20Word)

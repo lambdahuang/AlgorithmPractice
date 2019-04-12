@@ -1,4 +1,5 @@
 [837. New 21 Game](https://leetcode.com/problems/new-21-game/)
+
 Both are DP solutions, but the second is using a sum value to keep tracking on last W elements.
 
 O(K*W)
