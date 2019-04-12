@@ -406,7 +406,9 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 
 # Math
 
-[70. Climbing Stairs](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/70.%20Climbing%20Stairs)
+* [70. Climbing Stairs](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/70.%20Climbing%20Stairs)
+
+* [528. Random Pick with Weight](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Math/528.%20Random%20Pick%20with%20Weight)
 
 # Interactive
 * [843. Guess the Word](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Interactive/843.%20Guess%20the%20Word)
