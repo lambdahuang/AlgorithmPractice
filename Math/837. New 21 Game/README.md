@@ -1,6 +1,6 @@
 [837. New 21 Game](https://leetcode.com/problems/new-21-game/)
 
-Both are DP solutions, but the second is using a sum value to keep tracking on last W elements.
+Both are DP solutions, but the second is using a sum value to keep tracking on last W elements, and by doing so, we save a for-loop.
 
 O(K*W)
 
