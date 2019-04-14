@@ -49,3 +49,44 @@ class Solution {
     
 }
 ```
+
+4.13.2019
+
+```
+class Solution {
+    public boolean judgePoint24(int[] nums) {
+        Queue<List<Double>> q = new LinkedList();
+        List<Double> s = new ArrayList();
+        for(int i: nums) s.add((double)i);
+        q.offer(s);
+        while(!q.isEmpty()) {
+            List<Double> tmp = q.poll();
+            if(tmp.size() == 1){
+                if(Math.abs(tmp.get(0) - 24.0) < 0.0000001)
+                    return true; 
+                else 
+                    continue; 
+            }
+            for(int i = 0; i < tmp.size(); i ++) {
+                for(int j = i; j < tmp.size(); j ++) {
+                    for(int k = 0; k < 4; k ++) {
+                        if(i == j) continue;
+                        List<Double> n = new ArrayList(tmp.size() - 1);
+                        for(int g = 0; g < tmp.size(); g ++) 
+                            if(g != i && g != j)n.add(tmp.get(g));
+                        n.add(operate(tmp.get(i), tmp.get(j), k));
+                        q.offer(n);
+                    }
+                }
+            }
+        }
+        return false;
+    }
+    public double operate(double a, double b, int k) {
+        if(k == 0) return a + b;
+        else if(k == 1) return a - b;
+        else if(k == 2) return a * b;
+        else return a / b;
+    }
+}
+```
