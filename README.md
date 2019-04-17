@@ -103,7 +103,7 @@
 
 * [686. Repeated String Match](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/686.%20Repeated%20String%20Match)
 
-* [727. Minimum Window Subsequence]()
+* [727. Minimum Window Subsequence](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/727.%20Minimum%20Window%20Subsequence)
 
 * [736. Parse Lisp Expression](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/736.%20Parse%20Lisp%20Expression)
 
@@ -375,6 +375,8 @@ https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/
 * [688. Knight Probability in Chessboard](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/688.%20Knight%20Probability%20in%20Chessboard)
 
 * [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Memorized%20Search%20and%20DP/2D/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays)
+
+* [727. Minimum Window Subsequence](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/String/727.%20Minimum%20Window%20Subsequence)
 
 ## Other
 
