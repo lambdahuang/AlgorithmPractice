@@ -1,6 +1,6 @@
-[809. Expressive Words](https://leetcode.com/problems/expressive-words/)
+# [809. Expressive Words](https://leetcode.com/problems/expressive-words/)
 
-```
+```java
 class Solution {
     class CharMapElement {
         int n;
@@ -42,6 +42,45 @@ class Solution {
             }
         }
         return hm;
+    }
+}
+```
+
+## 2020/06/09
+
+Very straight forward solution.
+
+```java
+class Solution {
+    public int expressiveWords(String S, String[] words) {
+        int ret = 0;
+        for (String word : words) {
+            if (isStretchy(S, word)) ret ++;
+        }
+        return ret;
+    }
+
+    public boolean isStretchy(String s, String w) {
+        int i = 0;
+        int j = 0;
+        while(i < s.length() && j < w.length()) {
+            String groupS = getGroup(s, i);
+            String groupW = getGroup(w, j);
+            int gap = groupS.length() - groupW.length();
+
+            if(!groupS.contains(groupW) || (!groupS.equals(groupW) && groupS.length() < 3))
+                return false;
+
+            i += groupS.length();
+            j += groupW.length();
+        }
+        return i == s.length() && j == w.length();
+    }
+
+    public String getGroup(String x, int start) {
+        int i = 0;
+        for (i = start + 1; i < x.length() && x.charAt(i) == x.charAt(i-1); i ++);
+        return x.substring(start, i);
     }
 }
 ```
