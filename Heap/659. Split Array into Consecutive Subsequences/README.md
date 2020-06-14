@@ -1,4 +1,4 @@
-#[659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+# [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
 
 Every element from left to right will be "joined" with a smaller element if it is possible.
 The joining priority is defined as follows:

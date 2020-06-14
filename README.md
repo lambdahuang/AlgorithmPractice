@@ -269,6 +269,8 @@
 
 * [629. Top K Frequent Words](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Heap/629.%20Top%20K%20Frequent%20Words)
 
+* [659. Split Array into Consecutive Subsequences](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Heap/659.%20Split%20Array%20into%20Consecutive%20Subsequences)
+
 * [857. Minimum Cost to Hire K Workers](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Heap/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers)
 
 # DFS and BFS
