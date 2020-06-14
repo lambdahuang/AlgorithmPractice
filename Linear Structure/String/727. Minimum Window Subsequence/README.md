@@ -93,7 +93,7 @@ else DP[i][j] = Max(DP[i][j], DP[i][j-1]);
 The final code is here:
 We use a boolean map to tell exploited entries from unexploited entires.
 
-```
+```java
 class Solution {
     public String minWindow(String S, String T) {
         int[][] dp = new int[T.length()+1][S.length()+1];
@@ -127,5 +127,50 @@ class Solution {
         else
             return ret;
     }
+}
+```
+
+6/13/2020
+
+DP
+
+```java
+class Solution {
+    int sum;
+    int[] candis = {0, 1, 6, 8, 9};
+    public int confusingNumberII(int N) {
+        sum = 0;
+        for (int i : candis)
+            recur(i, N, 1);
+        return sum;
+    }
+    
+    public void recur(int x, int N, int factor) {
+        if(x > N || factor > N) return;
+        else if (x / factor >0 && x > 1 && (isConfusingNumber(x))) {
+            sum++;
+        }
+        for (int i : candis)
+            recur(factor * 10 * i + x, N, factor * 10);
+    }
+    
+    public boolean isConfusingNumber(int x) {
+        int[] lst = new int[12];
+        int len = 0;
+        for (; x > 0; len ++, x/=10) lst[len] = x % 10;
+
+        if(len % 2 == 1 && (lst[len/2] == 6 || lst[len/2] == 9))
+            return true;
+        for (int i = 0; i < len/2; i ++) {
+            if (lst[i] == 1 && lst[len - 1 -i] != 1 ||
+                lst[i] == 6 && lst[len - 1 -i] != 9 ||
+                lst[i] == 9 && lst[len - 1 -i] != 6 ||
+                lst[i] == 0 && lst[len - 1 -i] != 0 ||
+                lst[i] == 8 && lst[len - 1 -i] != 8)
+                return true;
+        }
+        return false;
+    }
+    
 }
 ```
