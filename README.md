@@ -285,6 +285,8 @@
 
 * [753. Cracking the Safe](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/753.%20Cracking%20the%20Safe)
 
+* [1088. Confusing Number II](https://github.com/lambdahuang/AlgorithmPractice/tree/master/BFS%26DFS/1D/1088.%20Confusing%20Number%20II)
+
 ## 1D
 
 * [22. Generate Parentheses](https://github.com/lambdahuang/AlgorithmPractice/tree/master/Linear%20Structure/Stack%20and%20Queue/22.%20Generate%20Parentheses)
